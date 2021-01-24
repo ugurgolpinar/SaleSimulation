@@ -8,7 +8,7 @@ namespace ConsoleApp3
     {
         public void Add(ICampaign campaign)
         {
-            Console.WriteLine("Yeni kampanya eklend,");
+            Console.WriteLine("Yeni kampanya eklendi");
         }
 
         public void Delete(ICampaign campaign)
